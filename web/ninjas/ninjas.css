@@ -1,0 +1,44 @@
+#logomarca{
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-family: "Purisa", sans-serif;
+  text-align: center;
+  color: red;
+}
+h2{
+  font-family: "Purisa", sans-serif;
+  color: red;
+}
+header{
+  background-color: black;
+  background-size: auto;
+
+}
+
+p {
+  text-align: justify;
+  font-style: normal;
+  color: black;
+}
+
+a[href]{
+  background-image: url(img/globo.png);
+  background-repeat: no-repeat;
+
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
