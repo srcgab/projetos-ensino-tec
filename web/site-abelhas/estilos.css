@@ -1,0 +1,75 @@
+﻿body {
+	background-image: linear-gradient( to left top,#24d544,lightyellow,#a9c6fe);
+	background-size: cover;
+	font-size: 24px;
+  margin-left: 2%;
+  margin-right: 2%;
+ }
+p{
+  text-align: justify;
+  font-size: 24px;
+}
+
+html, body{
+   min-height: 100%
+ }
+
+ #logo{
+   display: block;
+   margin: auto;
+ }
+
+ .curiosidade{
+  border: 1px solid rgb(223, 150,47);
+  background-image: url(imgs/favo-de-mel.png);
+  margin-right: 20px;
+  border-radius: 10px;
+  padding:20px;
+	display: block;
+	background-repeat: repeat;
+}
+.curiosidadea{
+ border: 1px solid rgb(223, 150,47);
+ background-image: url(imgs/favo-de-mel.png);
+ margin-right: 20px;
+ border-radius: 10px;
+ padding:20px;
+ display: block;
+ background-repeat: repeat;
+ margin-top: 7%;
+}
+.icone-curiosidade{
+  float: left;
+  margin-right: 1%;
+}
+
+.casta-de-abelha{
+  border-style: double;
+  border-radius: 50%;
+}
+
+#zangao{
+  margin-right: 2%;
+  float: left;
+	shape-outside: margin-box;
+}
+
+#ope{
+  margin-left: 2%;
+  float: right;
+	shape-outside: margin-box;
+}
+
+#rainha{
+  margin-left: 2%;
+  float: right;
+	shape-outside: margin-box;
+	max-width:250px;
+  max-height:200px;
+  width: auto;
+  height: auto;
+}
+
+.a{
+   float: right;
+ }
